@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Unauthorized - Apple Developer</title>
+	<meta name="omni_page" content="Unauthorized - (English)" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="robots" content="noindex" />
+	<link rel="shortcut icon" href="https://devimages.apple.com.edgekey.net/favicon.ico" />
+	<link rel="icon" href="https://devimages.apple.com.edgekey.net/favicon.ico" />
+	<link rel="stylesheet" href="https://www.apple.com/wss/fonts?family=Myriad+Set+Pro&v=1" type="text/css" />
+	<link rel="stylesheet" href="https://devimages.apple.com.edgekey.net/assets/styles/systems.css" type="text/css" />
+	<!--[if lt IE 9]>
+		<script src="/assets/scripts/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="unauthorized">
+	<section class="wrapper">
+		<section id="content" class="content">
+			<header class="header">
+				<h1><a href="https://developer.apple.com/"><span class="text-replace">Apple Developer</span></a></h1>
+			</header>
+
+			<h2>Sorry, you cannot view this page.</h2>
+
+			<p>This page no longer exists or the Apple ID you signed in with does not have permission to view this page. If you’re currently a member of the Apple Developer Program, you or your Team Agent may need to update your account by agreeing to the latest license agreement in order to access this page.</p>
+
+			<p>To view your current membership status and benefits, visit your <a href="/account/?view=membership">account</a>.</p>
+
+		<aside class="push"></aside>
+	</section>
+
+		<footer class="footer">
+			<nav class="sosumi">
+				<p>Copyright © 2016 Apple Inc. All rights reserved.</p>
+				<ul class="links">
+					<li><a href="http://www.apple.com/legal/terms/site.html" class="first">Terms of Use</a></li>
+					<li><a href="http://www.apple.com/privacy/">Privacy Policy</a></li>
+					<li><a href="http://developer.apple.com/support/system-status/">System Status</a></li>
+				</ul>
+			</nav>
+		</footer>
+</body>
+</html>
